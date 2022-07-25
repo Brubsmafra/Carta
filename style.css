@@ -1,0 +1,23 @@
+body {
+
+    font-family: 'Poppins', sans-serif; 
+}
+div {
+
+    border: 1px solid; 
+    width: 800px;  
+    margin: auto;
+}
+
+h3{
+    text-align: center;
+}
+
+h4{
+    margin-left: 20px;
+}
+
+p{
+    margin-left: 20px;
+    text-align:center;
+}
